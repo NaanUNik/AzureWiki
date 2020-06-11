@@ -1,6 +1,51 @@
-# AzureBoards
-  --Work Items
-   --Boards
-   --Backlogs
-   --Sprints 
-   --Quries 
+Azure Boards:
+--Track work with Kanban boards, backlogs, team dashboards, and custom reporting
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
